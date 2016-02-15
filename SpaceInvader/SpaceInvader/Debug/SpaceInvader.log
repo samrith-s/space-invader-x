@@ -1,0 +1,24 @@
+﻿Build started 9/8/2015 9:27:54 AM.
+     1>Project "C:\Users\admin\documents\visual studio 2010\Projects\SpaceInvader\SpaceInvader\SpaceInvader.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\SpaceInvader.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\documents\visual studio 2010\Projects\SpaceInvader\Debug\SpaceInvader.exe" /NOLOGO SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SpaceInvader.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\admin\documents\visual studio 2010\Projects\SpaceInvader\Debug\SpaceInvader.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\documents\visual studio 2010\Projects\SpaceInvader\Debug\SpaceInvader.lib" /MACHINE:X86 Debug\Enemy.obj
+         Debug\GameManager.obj
+         Debug\Main.obj
+         Debug\Player.obj
+         Debug\Window.obj
+     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+         SpaceInvader.vcxproj -> C:\Users\admin\documents\visual studio 2010\Projects\SpaceInvader\Debug\SpaceInvader.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\admin\documents\visual studio 2010\Projects\SpaceInvader\Debug\SpaceInvader.exe;#1" /manifest Debug\SpaceInvader.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\SpaceInvader.unsuccessfulbuild".
+         Touching "Debug\SpaceInvader.lastbuildstate".
+     1>Done Building Project "C:\Users\admin\documents\visual studio 2010\Projects\SpaceInvader\SpaceInvader\SpaceInvader.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31
